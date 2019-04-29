@@ -16,7 +16,7 @@ config = {
     'DB_PASS': '123456',
     # 连接池大小
     'DB_POOL_MAX_CONN': 2,
-    # 重试的等待时间(秒)
+    # 重试的等待时间(s)
     'TIME_WAIT': 1
 }
 
